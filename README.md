@@ -41,12 +41,13 @@ ROLV is protected by a fast-track parent patent and four Continuation-in-Part (C
 
 Validated on Google Colab and RunPod with matrices up to 20,000×20,000:
 
-| Platform       | Speedup vs cuSPARSE | Energy Savings |
-|----------------|---------------------|----------------|
-| NVIDIA B200    | 145.71x             | 99.31%         |
-| AMD MI300X     | 121.77x             | 99.18%         |
-| Google TPU v6e | 160x (vs JAX sparse)| —              |
-
+| Platform         | Speedup vs Baseline         | Energy Savings vs Baseline |
+|------------------|-----------------------------|-----------------------------|
+| NVIDIA B200      | 310.21x vs cuSPARSE         | 99.68% vs cuSPARSE          |
+| AMD MI300X (70%) | 740.97x vs hipSPARSE        | 99.87% vs hipSPARSE         |
+| AMD MI300X (80%) | 835.04x vs hipSPARSE        | 99.88% vs hipSPARSE         |
+| Google TPU v6e   | 160x vs JAX sparse          | 98% vs JAX sparse           |
+*All tests used 20,000×20,000 matrices with varying sparsity levels. Correctness verified via L2 norm comparison and np.allclose.*
 ## 🔧 Getting Started
 
 > ⚠️ Coming soon: Open-source release pending patent finalization.
