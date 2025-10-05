@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/rolvai/rolv-library/blob/main/rolv-logo.jpg" alt="ROLV LOGO" width="200"/>
+</p>
 # ROLV Library: Reinforcement-Optimized Lightweight Vector Processing
 
 **Sparse Matrix Acceleration for AI, Mining, Mobile & Beyond**
