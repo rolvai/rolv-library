@@ -103,4 +103,7 @@ Stay tuned for full contribution guidelines.
 ROLV is redefining energy-efficient computing.  
 Whether you're a developer, researcher, or investor—reach out and be part of the future.
 
-📬 info@rolv.ai
+📬 rolv@rolv.ai
+
+## Technical Papers
+- [How Apple Could Benefit from ROLV](./Apple_ROLV_WhitePaper.md)
