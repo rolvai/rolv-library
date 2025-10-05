@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://github.com/rolvai/rolv-library/blob/main/ROLV LOGO.jpg" alt="ROLV LOGO" width="200"/>
+  <img src="https://github.com/rolvai/rolv-library/blob/main/rolv-logo.png" alt="ROLV Logo" width="200"/>
 </p>
+
 # ROLV Library: Reinforcement-Optimized Lightweight Vector Processing
+
 ![Patent Pending](https://img.shields.io/badge/status-patent--pending-blue)
 ![License](https://img.shields.io/badge/license-proprietary-red)
 ![Platform Agnostic](https://img.shields.io/badge/platform-agnostic-green)
+
 **Sparse Matrix Acceleration for AI, Mining, Mobile & Beyond**
 
-ROLV is a patent-pending software library that delivers groundbreaking speed and energy efficiency for sparse data workloads. Built on proprietary mathematical frameworks, ROLV achieves up to **160x faster performance** and **99.31% energy savings** compared to leading sparse libraries like cuSPARSE and hipSPARSE—without hardware tuning.
-
+ROLV is a patent-pending software library that delivers groundbreaking speed and energy efficiency for sparse data workloads. Built on proprietary mathematical frameworks, ROLV achieves up to 160x faster performance and 99.31% energy savings compared to leading sparse libraries like cuSPARSE and hipSPARSE—without hardware tuning.
 ## 🚀 Highlights
 
 - **Speed**: Up to 145.71x faster than cuSPARSE (NVIDIA), 121.77x faster than hipSPARSE (AMD), and 160x faster than JAX sparse on TPU.
