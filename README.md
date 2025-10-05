@@ -2,7 +2,9 @@
   <img src="https://github.com/rolvai/rolv-library/blob/main/ROLV LOGO.jpg" alt="ROLV LOGO" width="200"/>
 </p>
 # ROLV Library: Reinforcement-Optimized Lightweight Vector Processing
-
+![Patent Pending](https://img.shields.io/badge/status-patent--pending-blue)
+![License](https://img.shields.io/badge/license-proprietary-red)
+![Platform Agnostic](https://img.shields.io/badge/platform-agnostic-green)
 **Sparse Matrix Acceleration for AI, Mining, Mobile & Beyond**
 
 ROLV is a patent-pending software library that delivers groundbreaking speed and energy efficiency for sparse data workloads. Built on proprietary mathematical frameworks, ROLV achieves up to **160x faster performance** and **99.31% energy savings** compared to leading sparse libraries like cuSPARSE and hipSPARSE—without hardware tuning.
@@ -66,3 +68,36 @@ For licensing, partnerships, or technical inquiries:
 🌐 [rolv.ai](https://rolv.ai)
 
 ---
+
+## 🤝 Contributing
+
+ROLV is currently in pre-release mode. We welcome feedback, ideas, and expressions of interest.
+
+To contribute:
+- Open an issue with your suggestion or question
+- Fork the repo and submit a pull request (once public code is released)
+- Contact us directly for partnership or licensing discussions
+
+Stay tuned for full contribution guidelines.
+## 🛣️ Roadmap
+
+- [x] Patent filings and benchmark validation
+- [x] GitHub launch with README
+- [ ] Public release of core library (pending IP finalization)
+- [ ] Benchmark notebooks (Colab + RunPod)
+- [ ] Licensing portal and enterprise SDK
+- [ ] Community forum and contributor program
+
+- [ ] ## 📚 Resources
+
+- [ROLV.ai Website](https://rolv.ai)
+- [Press Release on PR.com](https://www.pr.com/press-release/899999)
+- [Patent Overview (PDF)](link-to-your-patent-summary-if-hosted)
+- [Benchmark Notebook (Coming Soon)]()
+
+- ## 🚀 Join Us
+
+ROLV is redefining energy-efficient computing.  
+Whether you're a developer, researcher, or investor—reach out and be part of the future.
+
+📬 info@rolv.ai
