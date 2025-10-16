@@ -36,6 +36,7 @@ ROLV is protected by a fast-track parent patent and four Continuation-in-Part (C
 3. **CIP 2**: Mining optimization
 4. **CIP 3**: Mobile battery efficiency
 5. **CIP 4**: Generalized sparse acceleration
+6. **CIP 5**: Electric vehicle efficiency
 
 ## 📊 Benchmarks
 
@@ -43,7 +44,7 @@ Validated on Google Colab and RunPod with matrices up to 20,000×20,000:
 
 | Platform         | Speedup vs Baseline         | Energy Savings vs Baseline |
 |------------------|-----------------------------|-----------------------------|
-| NVIDIA B200      | 310.21x vs cuSPARSE         | 99.68% vs cuSPARSE          |
+| NVIDIA B200      | 2132.88x vs cuSPARSE         | 99.68% vs cuSPARSE          |
 | AMD MI300X (70%) | 740.97x vs hipSPARSE        | 99.87% vs hipSPARSE         |
 | AMD MI300X (80%) | 835.04x vs hipSPARSE        | 99.88% vs hipSPARSE         |
 | Google TPU v6e   | 160x vs JAX sparse          | 98% vs JAX sparse           |
